@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "switch_first_default_keyword/1.0.0": {
+        "runtime": {
+          "switch_first_default_keyword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "switch_first_default_keyword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

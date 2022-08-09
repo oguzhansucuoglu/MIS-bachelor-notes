@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.exe
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.deps.json
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.runtimeconfig.json
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.dll
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\bin\Debug\net5.0\volume_of_the_cone.pdb
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.AssemblyInfo.cs
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.dll
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\refint\volume_of_the_cone.dll
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.pdb
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\volume_of_the_cone.genruntimeconfig.cache
+C:\Users\zeki\source\repos\volume_of_the_cone\volume_of_the_cone\obj\Debug\net5.0\ref\volume_of_the_cone.dll

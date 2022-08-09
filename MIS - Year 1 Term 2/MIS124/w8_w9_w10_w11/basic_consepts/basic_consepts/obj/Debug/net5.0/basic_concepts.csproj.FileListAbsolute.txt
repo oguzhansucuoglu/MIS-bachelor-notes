@@ -1,0 +1,5 @@
+C:\Users\zeki\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\basic_concepts.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\basic_concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\basic_concepts.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\basic_concepts.AssemblyInfo.cs
+C:\Users\zeki\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\basic_concepts.csproj.CoreCompileInputs.cache

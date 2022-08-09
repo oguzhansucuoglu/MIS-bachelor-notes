@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "volume_of_the_cone/1.0.0": {
+        "runtime": {
+          "volume_of_the_cone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "volume_of_the_cone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

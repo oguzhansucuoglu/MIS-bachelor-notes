@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.exe
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.deps.json
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.runtimeconfig.json
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.dll
+C:\Users\zeki\source\repos\week_days\week_days\bin\Debug\net5.0\week_days.pdb
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.AssemblyInfo.cs
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.dll
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\refint\week_days.dll
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.pdb
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\week_days.genruntimeconfig.cache
+C:\Users\zeki\source\repos\week_days\week_days\obj\Debug\net5.0\ref\week_days.dll

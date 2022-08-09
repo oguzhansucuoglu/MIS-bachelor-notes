@@ -1,0 +1,42 @@
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.exe
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.deps.json
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.json
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfo.cs
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Users\zeki\source\repos\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.genruntimeconfig.cache
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.exe
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.deps.json
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.json
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.dev.json
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.AssemblyReference.cache
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfoInputs.cache
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfo.cs
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Users\zeki\Desktop\MIS203\W4\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.genruntimeconfig.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.exe
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.deps.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.runtimeconfig.dev.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\bin\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.AssemblyReference.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfoInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.AssemblyInfo.cs
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.csproj.CoreCompileInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\switch_example_1\switch_example_1\obj\Debug\netcoreapp3.1\switch_example_1.genruntimeconfig.cache

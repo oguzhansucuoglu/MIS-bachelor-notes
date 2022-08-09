@@ -1,0 +1,5 @@
+# Contracts (General Provisions)
+
+**Conclusion of a contract:** requires a mutual expression of intent by the parties. Where the parties have agreed on all the essential terms, it is presumed that the contract will be binding notwithstanding any reservation on secondary terms. In the event of failure to reach agreement on such secondary terms, the court must determine them with due regard to the nature of the transaction
+
+**Offer and acceptance:** A person who offers to enter into a contract with another person and sets a time limit for acceptance is bound by his offer until the time limit expires. He is no longer bound if no acceptance has reached him on expiry of the time limit. Where an offer is made in the offeree's presence and no time limit for acceptance is set, it is no longer binding on the offeror unless the offeree accepts it immediately.

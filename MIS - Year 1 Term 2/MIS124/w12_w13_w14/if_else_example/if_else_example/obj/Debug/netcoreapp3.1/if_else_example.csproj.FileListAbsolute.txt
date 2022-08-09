@@ -1,0 +1,14 @@
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.AssemblyInfo.cs
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.exe
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.deps.json
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.runtimeconfig.json
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.dll
+C:\Users\zeki\source\repos\if_else_example\if_else_example\bin\Debug\netcoreapp3.1\if_else_example.pdb
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.dll
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.pdb
+C:\Users\zeki\source\repos\if_else_example\if_else_example\obj\Debug\netcoreapp3.1\if_else_example.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\zeki\source\repos\outer_block_inner_block_example\outer_block_inner_block_example\obj\Debug\net5.0\outer_block_inner_block_example.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\outer_block_inner_block_example\outer_block_inner_block_example\obj\Debug\net5.0\outer_block_inner_block_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\outer_block_inner_block_example\outer_block_inner_block_example\obj\Debug\net5.0\outer_block_inner_block_example.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\outer_block_inner_block_example\outer_block_inner_block_example\obj\Debug\net5.0\outer_block_inner_block_example.AssemblyInfo.cs
+C:\Users\zeki\source\repos\outer_block_inner_block_example\outer_block_inner_block_example\obj\Debug\net5.0\outer_block_inner_block_example.csproj.CoreCompileInputs.cache

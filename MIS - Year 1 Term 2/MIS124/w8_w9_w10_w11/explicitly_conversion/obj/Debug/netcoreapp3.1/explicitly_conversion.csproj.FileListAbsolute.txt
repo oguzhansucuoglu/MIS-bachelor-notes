@@ -1,0 +1,14 @@
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.exe
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.deps.json
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.runtimeconfig.json
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.runtimeconfig.dev.json
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.dll
+C:\Users\zeki\Desktop\w11\explicitly_conversion\bin\Debug\netcoreapp3.1\explicitly_conversion.pdb
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.csproj.AssemblyReference.cache
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.AssemblyInfoInputs.cache
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.AssemblyInfo.cs
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.dll
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.pdb
+C:\Users\zeki\Desktop\w11\explicitly_conversion\obj\Debug\netcoreapp3.1\explicitly_conversion.genruntimeconfig.cache

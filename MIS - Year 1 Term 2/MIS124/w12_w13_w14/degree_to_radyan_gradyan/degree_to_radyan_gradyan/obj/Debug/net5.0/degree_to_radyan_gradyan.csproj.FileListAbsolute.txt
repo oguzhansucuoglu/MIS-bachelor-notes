@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.exe
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.deps.json
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.runtimeconfig.json
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.dll
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\bin\Debug\net5.0\degree_to_radyan_gradyan.pdb
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.AssemblyInfo.cs
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.dll
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\refint\degree_to_radyan_gradyan.dll
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.pdb
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\degree_to_radyan_gradyan.genruntimeconfig.cache
+C:\Users\zeki\source\repos\degree_to_radyan_gradyan\degree_to_radyan_gradyan\obj\Debug\net5.0\ref\degree_to_radyan_gradyan.dll

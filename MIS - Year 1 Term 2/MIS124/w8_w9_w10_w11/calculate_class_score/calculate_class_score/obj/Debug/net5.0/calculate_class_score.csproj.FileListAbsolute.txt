@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.exe
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.deps.json
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.runtimeconfig.json
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.dll
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\bin\Debug\net5.0\calculate_class_score.pdb
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.AssemblyInfo.cs
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.dll
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\refint\calculate_class_score.dll
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.pdb
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\calculate_class_score.genruntimeconfig.cache
+C:\Users\zeki\source\repos\calculate_class_score\calculate_class_score\obj\Debug\net5.0\ref\calculate_class_score.dll

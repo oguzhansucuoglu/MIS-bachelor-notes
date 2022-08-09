@@ -1,0 +1,14 @@
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.exe
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.deps.json
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.json
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\zeki\source\repos\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfo.cs
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\zeki\source\repos\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.genruntimeconfig.cache

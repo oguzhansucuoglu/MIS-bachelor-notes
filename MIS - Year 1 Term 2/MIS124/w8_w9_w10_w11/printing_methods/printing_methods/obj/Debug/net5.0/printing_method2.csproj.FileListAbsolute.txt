@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.exe
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.deps.json
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.runtimeconfig.json
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.dll
+C:\Users\zeki\source\repos\printing_method2\printing_method2\bin\Debug\net5.0\printing_method2.pdb
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.AssemblyInfo.cs
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.dll
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\refint\printing_method2.dll
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.pdb
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\printing_method2.genruntimeconfig.cache
+C:\Users\zeki\source\repos\printing_method2\printing_method2\obj\Debug\net5.0\ref\printing_method2.dll

@@ -1,0 +1,14 @@
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.exe
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.deps.json
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.runtimeconfig.json
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.dll
+C:\Users\zeki\source\repos\implicit_data_type_conversion\bin\Debug\netcoreapp3.1\implicit_data_type_conversion.pdb
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.AssemblyInfo.cs
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.dll
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.pdb
+C:\Users\zeki\source\repos\implicit_data_type_conversion\obj\Debug\netcoreapp3.1\implicit_data_type_conversion.genruntimeconfig.cache

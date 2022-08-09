@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.exe
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.deps.json
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.runtimeconfig.json
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.dll
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\bin\Debug\net5.0\using_curly_braces.pdb
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.AssemblyInfo.cs
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.dll
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\refint\using_curly_braces.dll
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.pdb
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\using_curly_braces.genruntimeconfig.cache
+C:\Users\zeki\source\repos\using_curly_braces\using_curly_braces\obj\Debug\net5.0\ref\using_curly_braces.dll

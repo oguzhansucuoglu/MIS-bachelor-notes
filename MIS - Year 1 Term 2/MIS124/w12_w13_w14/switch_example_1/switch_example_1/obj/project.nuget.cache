@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YguhM0lUqjlDsRTndStGefOj66MDIkFi4HYB6+LfPYb+C/R3bMBD84o9J6VgNXEQ8N2ZQvWubRUDHDCNxlbhMg==",
+  "success": true,
+  "projectFilePath": "C:\\Ders\\MIS - Year 1 Term 2\\MIS124\\w12_w13_w14\\switch_example_1\\switch_example_1\\switch_example_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T420\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\T420\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\T420\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\T420\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

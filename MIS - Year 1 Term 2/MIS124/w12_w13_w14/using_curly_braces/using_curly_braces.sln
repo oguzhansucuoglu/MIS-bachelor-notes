@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using_curly_braces", "using_curly_braces\using_curly_braces.csproj", "{6DC3C69C-6C94-40F6-974A-E41ABE82883E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC3C69C-6C94-40F6-974A-E41ABE82883E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC3C69C-6C94-40F6-974A-E41ABE82883E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC3C69C-6C94-40F6-974A-E41ABE82883E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC3C69C-6C94-40F6-974A-E41ABE82883E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EFF6C60-FE32-4831-9B1F-E93255F0E76F}
+	EndGlobalSection
+EndGlobal

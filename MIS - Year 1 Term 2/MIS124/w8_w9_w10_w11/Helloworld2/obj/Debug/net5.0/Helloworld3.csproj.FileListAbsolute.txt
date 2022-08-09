@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.exe
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.deps.json
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.runtimeconfig.json
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.dll
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\ref\Helloworld3.dll
+C:\Users\zeki\source\repos\Helloworld3\bin\Debug\net5.0\Helloworld3.pdb
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.AssemblyInfo.cs
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.dll
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\ref\Helloworld3.dll
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.pdb
+C:\Users\zeki\source\repos\Helloworld3\obj\Debug\net5.0\Helloworld3.genruntimeconfig.cache

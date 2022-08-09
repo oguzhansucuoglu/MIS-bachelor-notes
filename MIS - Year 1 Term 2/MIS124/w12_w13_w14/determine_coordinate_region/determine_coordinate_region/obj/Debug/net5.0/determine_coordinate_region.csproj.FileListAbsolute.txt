@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.exe
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.deps.json
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.runtimeconfig.json
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.dll
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\bin\Debug\net5.0\determine_coordinate_region.pdb
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.AssemblyInfo.cs
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.dll
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\refint\determine_coordinate_region.dll
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.pdb
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\determine_coordinate_region.genruntimeconfig.cache
+C:\Users\zeki\source\repos\determine_coordinate_region\determine_coordinate_region\obj\Debug\net5.0\ref\determine_coordinate_region.dll

@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.exe
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.deps.json
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.runtimeconfig.json
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.dll
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\bin\Debug\net5.0\area_of_triangle.pdb
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.AssemblyInfo.cs
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.dll
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\refint\area_of_triangle.dll
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.pdb
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\area_of_triangle.genruntimeconfig.cache
+C:\Users\zeki\source\repos\area_of_triangle\area_of_triangle\obj\Debug\net5.0\ref\area_of_triangle.dll

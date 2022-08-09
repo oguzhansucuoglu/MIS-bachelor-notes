@@ -1,0 +1,28 @@
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\zeki\Desktop\w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\zeki\Desktop\w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w8_w9_w10_w11\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

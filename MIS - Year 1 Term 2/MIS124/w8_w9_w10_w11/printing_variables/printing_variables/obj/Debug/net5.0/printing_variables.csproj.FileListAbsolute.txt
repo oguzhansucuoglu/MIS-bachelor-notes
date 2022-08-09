@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.exe
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.deps.json
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.runtimeconfig.json
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.dll
+C:\Users\zeki\source\repos\printing_variables\printing_variables\bin\Debug\net5.0\printing_variables.pdb
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.AssemblyInfo.cs
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.dll
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\refint\printing_variables.dll
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.pdb
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\printing_variables.genruntimeconfig.cache
+C:\Users\zeki\source\repos\printing_variables\printing_variables\obj\Debug\net5.0\ref\printing_variables.dll

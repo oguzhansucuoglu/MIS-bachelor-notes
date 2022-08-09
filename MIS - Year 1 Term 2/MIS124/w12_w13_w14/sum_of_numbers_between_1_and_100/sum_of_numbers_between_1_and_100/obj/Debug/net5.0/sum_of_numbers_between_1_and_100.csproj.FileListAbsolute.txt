@@ -1,0 +1,32 @@
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.exe
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.deps.json
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.runtimeconfig.json
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.dll
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.pdb
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.AssemblyInfo.cs
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.dll
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\refint\sum_of_numbers_between_1_and_100.dll
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.pdb
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.genruntimeconfig.cache
+C:\Users\zeki\source\repos\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\ref\sum_of_numbers_between_1_and_100.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.exe
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.deps.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.runtimeconfig.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.runtimeconfig.dev.json
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\bin\Debug\net5.0\sum_of_numbers_between_1_and_100.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.csproj.AssemblyReference.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.AssemblyInfoInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.AssemblyInfo.cs
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.csproj.CoreCompileInputs.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\refint\sum_of_numbers_between_1_and_100.dll
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.pdb
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\sum_of_numbers_between_1_and_100.genruntimeconfig.cache
+C:\Ders\MIS - Year 1 Term 2\MIS124\w12_w13_w14\sum_of_numbers_between_1_and_100\sum_of_numbers_between_1_and_100\obj\Debug\net5.0\ref\sum_of_numbers_between_1_and_100.dll

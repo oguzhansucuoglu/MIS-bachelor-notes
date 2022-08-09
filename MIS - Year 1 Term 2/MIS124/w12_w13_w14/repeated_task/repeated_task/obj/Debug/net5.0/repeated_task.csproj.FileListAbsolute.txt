@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.exe
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.deps.json
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.runtimeconfig.json
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.dll
+C:\Users\zeki\source\repos\repeated_task\repeated_task\bin\Debug\net5.0\repeated_task.pdb
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.AssemblyInfo.cs
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.dll
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\refint\repeated_task.dll
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.pdb
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\repeated_task.genruntimeconfig.cache
+C:\Users\zeki\source\repos\repeated_task\repeated_task\obj\Debug\net5.0\ref\repeated_task.dll

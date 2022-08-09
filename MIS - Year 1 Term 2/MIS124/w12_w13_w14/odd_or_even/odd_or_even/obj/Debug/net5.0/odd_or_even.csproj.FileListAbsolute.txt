@@ -1,0 +1,16 @@
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.exe
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.deps.json
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.runtimeconfig.json
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.runtimeconfig.dev.json
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.dll
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\bin\Debug\net5.0\odd_or_even.pdb
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.csproj.AssemblyReference.cache
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.AssemblyInfoInputs.cache
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.AssemblyInfo.cs
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.csproj.CoreCompileInputs.cache
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.dll
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\refint\odd_or_even.dll
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.pdb
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\odd_or_even.genruntimeconfig.cache
+C:\Users\zeki\source\repos\odd_or_even\odd_or_even\obj\Debug\net5.0\ref\odd_or_even.dll
